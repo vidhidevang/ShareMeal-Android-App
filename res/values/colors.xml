@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main Theme Colors -->
+    <color name="primary">#F4A98C</color>
+    <color name="primary_dark">#E5896E</color>
+    <color name="accent">#FF7E79</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#FFF3EC</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_dark">#4E342E</color>
+    <color name="text_light">#8D6E63</color>
+
+    <!-- Buttons -->
+    <color name="button_color">#FF7E79</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Divider / Borders -->
+    <color name="divider">#E0E0E0</color>
+
+</resources>

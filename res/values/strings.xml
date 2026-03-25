@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShareMeal</string>
+
+    <string-array name="food_types">
+        <item>Veg</item>
+        <item>Non-Veg</item>
+        <item>Mix/Both</item>
+    </string-array>
+</resources>

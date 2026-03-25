@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App Theme -->
+    <style name="Theme.ShareMealClean" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Splash background -->
+        <item name="android:windowBackground">@drawable/splash_background</item>
+
+        <!-- App colors -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+
+        <!-- App font -->
+        <item name="android:fontFamily">@font/poppins_medium</item>
+
+    </style>
+
+</resources>
